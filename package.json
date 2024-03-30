@@ -1,0 +1,33 @@
+{
+  "name": "devcraftbox",
+  "version": "1.0.2",
+  "description": "devcraftbox",
+  "type": "module",
+  "main": "devcraftbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eliezercamoraa09/devcraftbox"
+  },
+  "website": "https://github.com/eliezercamoraa09/devcraftbox.git",
+  "keywords": [
+    "devcraftbox"
+  ],
+  "author": "eliezercamoraa09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliezercamoraa09/devcraftbox/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/eliezercamoraa09/devcraftbox#readme",
+  "dependencies": {
+    "codegeniuskit": "1.0.2",
+    "programwiz": "1.0.2",
+    "scriptmentor": "1.0.2"
+      }
+}
